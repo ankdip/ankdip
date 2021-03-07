@@ -1,0 +1,149 @@
+body{
+  background-color: #f2efea;
+  /* min-height: 75rem; */
+  padding-top: 4.5rem;
+}
+
+a{
+  color: black;
+
+}
+
+.bigshoulder{
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 2rem;
+
+
+}
+.shoulder{
+  font-family: 'Goldman', cursive;
+
+}
+
+
+
+img{
+padding-bottom: 1.375rem;
+}
+
+span{
+    font-size:15px;
+}
+
+.box{
+    padding:60px 0;
+}
+
+.box-part{
+    background:#FFF;
+    border-radius:10px;
+    padding:60px 10px;
+    margin:30px 0;
+    border: 1px  solid #bce6eb ;
+
+
+}
+
+.box-part:hover{
+  box-shadow:20px 20px 50px grey;
+  transition: all 0.25s ease-out;
+  cursor: pointer;
+  border: 1px  solid #51adcf ;
+
+
+}
+.text{
+    margin:20px 0;
+}
+
+
+
+
+#footer{
+  background-color: #c1c1c1;
+
+}
+#class_8 a:link{
+  
+  text-decoration: none;
+
+}
+#class_8 a:hover{
+ color: black;
+
+}
+
+
+#class_9 a:link{
+text-decoration: none;
+
+}
+#class_9 a:hover{
+  color: black;
+  text-decoration: none;
+
+}
+#class_10 a:link{
+text-decoration: none;
+
+}
+#class_10 a:hover{
+  color: black;
+  text-decoration: none;
+
+}
+#class_11 a:link{
+text-decoration: none;
+
+}
+#class_11 a:hover{
+  color: black;
+  text-decoration: none;
+
+}
+#class_12 a:link{
+text-decoration: none;
+
+}
+#class_12 a:hover{
+  color: black;
+  text-decoration: none;
+
+}
+#ioe a:link{
+text-decoration: none;
+
+}
+#ioe a:hover{
+  color: black;
+  text-decoration: none;
+
+}
+#iom a:link{
+text-decoration: none;
+
+}
+#iom a:hover{
+  color: black;
+  text-decoration: none;
+
+}
+#vvi a:link{
+text-decoration: none;
+
+}
+#vvi a:hover{
+  color: black;
+  text-decoration: none;
+
+}
+#khokho a:link{
+text-decoration: none;
+
+}
+#khokho a:hover{
+  color: black;
+  text-decoration: none;
+
+}
+
